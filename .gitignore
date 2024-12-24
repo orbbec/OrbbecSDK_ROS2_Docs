@@ -764,7 +764,7 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-docs/
+# docs/
 _html/
 _build
 
